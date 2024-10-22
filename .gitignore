@@ -163,3 +163,4 @@ cython_debug/
 artifacts
 isd_data_mini.zip
 models
+data
